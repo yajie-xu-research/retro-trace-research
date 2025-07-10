@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retro-trace-research"
+version = "1.2.0"
+description = "Retrospective stage-attribution of laboratory workflow quality events (delays and rework) - research tool"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "Proprietary - internal research use"}
+authors = [{name = "Research Engineering Group", email = "quality.research@example.invalid"}]
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4"]
+
+[project.scripts]
+retro-trace = "retro_trace.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"retro_trace.a1" = ["data/*.csv"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

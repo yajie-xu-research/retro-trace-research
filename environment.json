@@ -1,0 +1,15 @@
+{
+  "note": "Environment snapshots at project inception and at current release. Versions reflect what was actually installed at each point in time.",
+  "historical_environment": {
+    "captured_at": "2025-06-30",
+    "os": "macOS 14 (arm64)",
+    "python": "3.11.5",
+    "key_dependencies": {
+      "numpy": "1.26.4",
+      "pandas": "2.1.4",
+      "pytest": "7.4.2",
+      "PyYAML": "6.0.1"
+    },
+    "note": "Initial development environment. Later migrated per CHANGELOG.md."
+  }
+}

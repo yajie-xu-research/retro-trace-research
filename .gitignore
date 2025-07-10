@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.egg-info/
+build/
+dist/
+evidence/
+data/private/
+logs/*.payload
+governance/*.secrets.json
+
+# Only curated historical run directories may enter version control.
+outputs/runs/*/
+!outputs/runs/a1_attribution/
+!outputs/runs/a1_attribution/**
+!outputs/runs/a1_evaluation/
+!outputs/runs/a1_evaluation/**
+!outputs/runs/validation/
+!outputs/runs/validation/**
