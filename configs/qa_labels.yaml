@@ -1,0 +1,53 @@
+# Quality-event attribution research configuration.
+# Frozen alongside the validation protocol; changing any value below
+# invalidates the manifest config hash and must be recorded as a new version.
+
+config_version: 1.1.0
+project: retro-trace-research
+# 1.1.0: dictionary aligned byte-for-byte with the shared frozen event
+# dictionary (SITE_C local stream lacks the sequencing step); SITE_C declared
+# not comparable for every workflow version.
+
+# The event dictionary is a frozen copy of the STAR-TAT event dictionary
+# v1.0, byte-identical to the STAR-TAT stage map as of its v1.0 freeze
+# (2025-06-10). Any modification to the dictionary file is detected at load
+# time through the pinned hash below and aborts the run.
+pinned_dictionary:
+  source: "STAR-TAT event dictionary v1.0 (frozen copy)"
+  file: "src/retro_trace/a1/data/stage_map_v1_0.csv"
+  sha256: "2fb76ff2b9910422c18db576cb8ba25ce1b889a523e2ba6a7de4fe7a19c1ce45"
+  note: "hash covers the dictionary CSV bytes plus the canonical stage list"
+
+# Baseline stratification parameters (predefined, not tuned on evaluation data).
+baselines:
+  min_samples_per_class: 30
+  insufficient_reason: INSUFFICIENT_BASELINE
+  deviation_metric: "standardized_duration_deviation"
+  reference: "same sample_class stage-duration median and std"
+
+# Stage localization and uncertainty rules.
+attribution:
+  ambiguity_z_threshold: 5.5
+  tier_margin_threshold: 1.0
+  tiers: [LOW, HIGH]
+  note: >
+    ambiguity: two or more stages above the z threshold -> AMBIGUOUS_STAGES;
+    uncertainty tier: margin between top-1 and top-2 standardized deviations.
+
+# Cross-site comparability registry. Cases from a listed combination are
+# reported with reason NOT_COMPARABLE_SITE and are never localized.
+comparability:
+  non_comparable_combinations:
+    - site_key: SITE_C
+      workflow_version: WF_V1
+      reason: "the local event stream lacks the sequencing step declared in the frozen seven-stage dictionary"
+    - site_key: SITE_C
+      workflow_version: WF_V2
+      reason: "the local event stream lacks the sequencing step declared in the frozen seven-stage dictionary"
+    - site_key: SITE_C
+      workflow_version: WF_V3
+      reason: "the local event stream lacks the sequencing step declared in the frozen seven-stage dictionary"
+
+decision_enum: [LOCALIZED, ABSTAIN]
+reason_enum: [AMBIGUOUS_STAGES, INSUFFICIENT_BASELINE, NOT_COMPARABLE_SITE]
+run_status_enum: [INTERNAL_RESEARCH, EXTERNAL_VALIDATION]

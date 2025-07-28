@@ -1,0 +1,26 @@
+# Predefined rules for retrospectively marking delay and rework events.
+# Frozen before data release; the same rules drive the research data generator
+# and the attribution pipeline, and the quality-event labels are recorded
+# against these rule definitions.
+
+rule_version: "RR-2025-07-28A"
+frozen_at: "2025-07-28"
+
+delay:
+  metric: total_duration_hours
+  comparator: ">"
+  reference: class_p90
+  description: >
+    a released case is marked DELAY when its total duration from
+    SAMPLE_RECEIVED to RELEASED exceeds the 90th percentile of total duration
+    within its own sample class.
+
+rework:
+  signal: repeated_stage_events
+  description: >
+    a released case is marked REWORK when any canonical stage has two or more
+    event records (the stage was repeated).
+
+scope:
+  cases: released_only
+  note: retrospective marking applies to completed cases only.
