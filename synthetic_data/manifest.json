@@ -1,0 +1,21 @@
+{
+  "command": "retro-trace",
+  "commit": "aa2bc5ff00eb4bc45a05f122aa9f29df67ff659e",
+  "config_hash": "2f8bcdabf6233365c7a81e81e4a58135350323cf2c88befcee70a7a06d9fc397",
+  "data_hash": "69252761e3ab7a33ce8c7d6b09ed22fe5cc4249c8e06eca9363d67e5c8e81ec0",
+  "environment": "CPython 3.12.13",
+  "excluded_rows": 0,
+  "input_rows": 0,
+  "known_issues": [
+    "deterministic per seed; regenerating with the same seed reproduces the tables byte for byte"
+  ],
+  "operator": "researcher",
+  "permissions_pointer": "research/permissions.md",
+  "project": "retro-trace-research",
+  "result_hash": "c8cd3737d0b2087d5751e6b59dda9e2e3e6a6afee0bcc2ec7f41df4a6f89e59d",
+  "rule_version": "1.1.0|RR-2025-07-28A",
+  "run_id": "run-gen-20250710-69252761e3ab",
+  "seed": 20250710,
+  "stamp": "2026-06-30T00:00:00Z",
+  "status": "INTERNAL_RESEARCH"
+}

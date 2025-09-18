@@ -1,0 +1,13 @@
+{
+  "dictionary": "src/retro_trace/a1/data/stage_map_v1_0.csv",
+  "label_rules": "configs/label_rules.yaml",
+  "n_cases_total": 3500,
+  "n_delay_labeled": 420,
+  "n_not_comparable_combo": 254,
+  "n_rework_labeled": 280,
+  "n_small_class_cases": 22,
+  "n_two_stage_deviation": 112,
+  "n_unmapped_event_cases": 35,
+  "rule_version": "RR-2025-07-28A",
+  "seed": 20250710
+}
