@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 1.0.0 (2026-03-19)
+
+- Two-pass quality-event labeling: frozen delay/rework rules plus a
+  borderline review-path population.
+- Load-quartile snapshots and subgroup association tables.
+- Validation command with cross-table checks.
+- Cross-site validation protocol draft.
+
 ## 0.5.0 (2026-01-15)
 
 - Cross-site comparability mapping and baseline stratification by sample
