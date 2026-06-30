@@ -1,0 +1,204 @@
+case_key,site_key,workflow_version,kind,event_code_raw,detail
+CASE_00000013,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000031,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000057,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000066,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000091,SITE_B,WF_V2,UNMAPPED_EVENT_CODE,XQCC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000106,SITE_B,WF_V2,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000108,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000128,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000137,SITE_A,WF_V2,UNMAPPED_EVENT_CODE,XERR,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000143,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000157,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000191,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000232,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000252,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000262,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000265,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000271,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000300,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000339,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000343,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000350,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000358,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000359,SITE_C,WF_V2,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000380,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000387,SITE_B,WF_V2,UNMAPPED_EVENT_CODE,XERR,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000393,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000423,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000427,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000429,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000436,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000452,SITE_A,WF_V2,UNMAPPED_EVENT_CODE,XERR,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000498,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000502,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000527,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000530,SITE_A,WF_V3,UNMAPPED_EVENT_CODE,XADM,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000544,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000566,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000575,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000614,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000626,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000633,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000689,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000715,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000719,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000736,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000762,SITE_C,WF_V3,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000764,SITE_A,WF_V2,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000808,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000811,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000831,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000834,SITE_B,WF_V3,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00000866,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000942,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000958,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000979,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000984,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00000992,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001003,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001006,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001044,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001046,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001078,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001112,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001135,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001142,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001168,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001171,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001189,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001200,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001206,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001207,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001221,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001228,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001234,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001276,SITE_A,WF_V1,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00001279,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001303,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001324,SITE_A,WF_V2,UNMAPPED_EVENT_CODE,XQCC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00001332,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001343,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001348,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001381,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001414,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001457,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001486,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001517,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001529,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001532,SITE_B,WF_V2,UNMAPPED_EVENT_CODE,XADM,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00001575,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001587,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001591,SITE_C,WF_V2,UNMAPPED_EVENT_CODE,XADM,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00001606,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001612,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001643,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001654,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001663,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001671,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001691,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001695,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001716,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001741,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001848,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001852,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001857,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001873,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001878,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001893,SITE_C,WF_V2,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00001897,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001900,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001906,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001960,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001968,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00001977,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002001,SITE_B,WF_V2,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002008,SITE_B,WF_V3,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002015,SITE_A,WF_V2,UNMAPPED_EVENT_CODE,XQCC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002028,SITE_B,WF_V3,UNMAPPED_EVENT_CODE,XADM,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002047,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002056,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002097,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002103,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002132,SITE_B,WF_V2,UNMAPPED_EVENT_CODE,XERR,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002151,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002154,SITE_C,WF_V2,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002176,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002197,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002214,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002233,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002248,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002280,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002308,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002324,SITE_B,WF_V2,UNMAPPED_EVENT_CODE,XADM,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002347,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002353,SITE_B,WF_V1,UNMAPPED_EVENT_CODE,XADM,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002358,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002390,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002403,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002412,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002417,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002487,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002497,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002501,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002542,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002578,SITE_A,WF_V3,UNMAPPED_EVENT_CODE,XADM,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002585,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002597,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002597,SITE_C,WF_V3,UNMAPPED_EVENT_CODE,XQCC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002617,SITE_A,WF_V2,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002622,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002624,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002631,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002633,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002635,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002637,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002643,SITE_C,WF_V1,UNMAPPED_EVENT_CODE,XQCC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002664,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002665,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002669,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002674,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002683,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002697,SITE_A,WF_V2,UNMAPPED_EVENT_CODE,XERR,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002732,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002753,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002765,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002766,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002767,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002769,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002793,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002833,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002841,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002847,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002853,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002858,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002859,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002862,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002889,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002893,SITE_A,WF_V1,UNMAPPED_EVENT_CODE,XQCC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002904,SITE_B,WF_V1,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00002945,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002956,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002960,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00002996,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003014,SITE_A,WF_V3,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00003049,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003077,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003186,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003190,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003202,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003206,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003243,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003270,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003277,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003324,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003332,SITE_A,WF_V3,UNMAPPED_EVENT_CODE,XQCC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00003333,SITE_C,WF_V3,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003347,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003372,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003395,SITE_C,WF_V1,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003434,SITE_A,WF_V3,UNMAPPED_EVENT_CODE,XERR,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00003439,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary
+CASE_00003455,SITE_C,WF_V1,UNMAPPED_EVENT_CODE,XADM,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00003481,SITE_C,WF_V3,UNMAPPED_EVENT_CODE,XMISC,raw code not present in the frozen dictionary for this site and workflow version
+CASE_00003492,SITE_C,WF_V2,NOT_COMPARABLE_SITE,,site-version combination registered as not comparable; stage boundaries do not align with the canonical dictionary

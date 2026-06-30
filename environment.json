@@ -1,4 +1,5 @@
 {
+  "captured_at": "2026-06-30",
   "note": "Environment snapshots at project inception and at current release. Versions reflect what was actually installed at each point in time.",
   "historical_environment": {
     "captured_at": "2025-06-30",
@@ -11,5 +12,17 @@
       "PyYAML": "6.0.1"
     },
     "note": "Initial development environment. Later migrated per CHANGELOG.md."
+  },
+  "current_environment": {
+    "captured_at": "2026-06-30",
+    "os": "macOS 27 (arm64)",
+    "python": "3.12.13",
+    "key_dependencies": {
+      "numpy": "2.5.3",
+      "pandas": "3.0.6",
+      "pytest": "9.1.1",
+      "PyYAML": "6.0.3"
+    },
+    "venv": "venv (uv, CPython 3.12.13)"
   }
 }

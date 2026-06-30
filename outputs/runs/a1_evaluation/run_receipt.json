@@ -1,0 +1,69 @@
+{
+  "conclusion": "stage localization is reported as a statistical association, not causation; localized stages are candidate focus areas for quality review and are not evidence that a stage caused the event",
+  "config_hash": "2f8bcdabf6233365c7a81e81e4a58135350323cf2c88befcee70a7a06d9fc397",
+  "data_hash": "08218bfe7004c1593de8561c621f46ef70f9e828bff66f7b02396c0669d31032",
+  "metrics": {
+    "ambiguity_recall": 86,
+    "baselines": {
+      "naive_stage": {
+        "agreement_all": 0.3665086887835703,
+        "agreement_single_basis": 0.2783109404990403,
+        "n": 521
+      },
+      "spc_stage": {
+        "agreement_all": 0.4312796208530806,
+        "agreement_single_basis": 0.31094049904030713,
+        "n": 521
+      },
+      "threshold_stage": {
+        "agreement_all": 0.4296998420221169,
+        "agreement_single_basis": 0.30710172744721687,
+        "n": 521
+      }
+    },
+    "conclusion": "stage localization is reported as a statistical association, not causation; localized stages are candidate focus areas for quality review and are not evidence that a stage caused the event",
+    "correct_and_confident_baselines": {
+      "naive_stage": 0.36651,
+      "spc_stage": 0.43128,
+      "threshold_stage": 0.4297
+    },
+    "correct_and_confident_engine": 0.52133,
+    "flag_precision": 0.99526,
+    "flag_recall": 0.9,
+    "fn_ambiguous_false_abstain": 0,
+    "fn_insufficient_baseline": 5,
+    "fn_not_comparable": 168,
+    "fp_flag_no_label": 3,
+    "fp_localized_on_multi_basis": 0,
+    "fp_localized_wrong_stage": 41,
+    "localization_agreement": 0.88949,
+    "n_cases_flagged": 633,
+    "n_labeled_multi_basis": 86,
+    "n_labeled_quality_events": 700,
+    "n_localized": 371,
+    "rejection_by_reason": {
+      "AMBIGUOUS_STAGES": 86,
+      "INSUFFICIENT_BASELINE": 5,
+      "NOT_COMPARABLE_SITE": 168
+    },
+    "rejection_rate": 0.40916,
+    "tier_HIGH": {
+      "agreement": 0.15217391304347827,
+      "chance": 0.14285714285714285,
+      "n": 46,
+      "p_value_vs_chance": 0.8328400229295011
+    },
+    "tier_LOW": {
+      "agreement": 0.9938461538461538,
+      "chance": 0.14285714285714285,
+      "n": 325,
+      "p_value_vs_chance": 4.181043402523859e-269
+    }
+  },
+  "result_hash": "78310fa740aeda0f614fbcc68b7e0b53c659de25efac9230f3d0d7e306f31a68",
+  "rule_version": "1.1.0|RR-2025-07-28A",
+  "run_id": "run-eval-08218bfe7004",
+  "seed": 20250710,
+  "upstream_result_hash": "8aacadc5cd2e46a356614b2c62eff7fca42a266bb77fd05a164633f361e2696a",
+  "upstream_run": "outputs/runs/a1_attribution"
+}

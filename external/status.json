@@ -1,0 +1,8 @@
+{
+  "external_validation": {
+    "status": "NOT_OBTAINED",
+    "protocol": "external/EXTERNAL_VALIDATION_PROTOCOL_DRAFT.md",
+    "last_updated": "2026-06-30",
+    "note": "No external site or withheld-window data has been made available for validation. The frozen metrics in docs/frozen_metrics.md cover the research data package only."
+  }
+}

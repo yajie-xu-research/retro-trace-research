@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## 1.2.0 (2026-06-30)
+
+- Attribution engine: six-step pipeline (dictionary unification,
+  retrospective rule flags, per-stage deviation against class baselines,
+  subgroup association, ambiguity abstention, comparability gate).
+- Three comparison baselines: naive longest-wait heuristic, fixed
+  thresholds, per-stage statistical process control.
+- Uncertainty tiers with design-frozen calibration criterion; tests assert
+  HIGH-tier accuracy is not above chance and LOW-tier accuracy beats all
+  baselines.
+- Ground-truth isolation via `data/_ground_truth/` with byte-identity test.
+- CLI: generate-synthetic / validate / a1 attribute / a1 evaluate /
+  manifest inspect.
+- Frozen metrics on the seed-20250710 data package in `docs/frozen_metrics.md`.
+- External validation protocol draft; status not obtained.
+
 ## 1.0.0 (2026-03-19)
 
 - Two-pass quality-event labeling: frozen delay/rework rules plus a

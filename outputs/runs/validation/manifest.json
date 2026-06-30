@@ -1,0 +1,19 @@
+{
+  "command": "retro-trace",
+  "commit": "9efa41ac68bb44657287aafe50ca053888ceaf4b",
+  "config_hash": "2f8bcdabf6233365c7a81e81e4a58135350323cf2c88befcee70a7a06d9fc397",
+  "data_hash": "08218bfe7004c1593de8561c621f46ef70f9e828bff66f7b02396c0669d31032",
+  "environment": "CPython 3.12.13",
+  "excluded_rows": 35,
+  "input_rows": 23892,
+  "known_issues": [],
+  "operator": "researcher",
+  "permissions_pointer": "research/permissions.md",
+  "project": "retro-trace-research",
+  "result_hash": "0c908bdf36b52ac964fb07f2c682d93327d5fba1cb29485ca32477425fbc41cd",
+  "rule_version": "1.1.0|RR-2025-07-28A",
+  "run_id": "run-val-08218bfe7004",
+  "seed": 20250710,
+  "stamp": "2026-06-30T00:00:00Z",
+  "status": "INTERNAL_RESEARCH"
+}

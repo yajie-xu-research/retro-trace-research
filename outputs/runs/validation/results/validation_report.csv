@@ -1,0 +1,20 @@
+check_id,table,status,detail,n_rows_affected
+DICT_PIN,dictionary,PASS,pinned hash matches the frozen dictionary,0
+DICT_COPY_BYTES,dictionary,PASS,data stage_map.csv is a byte copy of the frozen dictionary,0
+SCHEMA_events.csv,events.csv,PASS,required columns present,23892
+SCHEMA_quality_events.csv,quality_events.csv,PASS,required columns present,700
+SCHEMA_sample_classes.csv,sample_classes.csv,PASS,required columns present,8
+SCHEMA_load_staffing.csv,load_staffing.csv,PASS,required columns present,96
+SCHEMA_cases.csv,cases.csv,PASS,required columns present,3500
+EVENTS_UNMAPPED,events.csv,PASS,35 unmapped event rows (0.1465%); tolerance 2%,35
+EVENTS_TIME_WINDOW,cases.csv,PASS,0 cases received outside their workflow-version validity window,0
+EVENTS_KNOWN_AFTER_OCCURRED,events.csv,PASS,0 rows where known_at precedes occurred_at,0
+EVENTS_STAGE_COVERAGE,events.csv,PASS,0 cases missing at least one stage mapped for their site and workflow version,0
+QUALITY_EVENT_TYPE,quality_events.csv,PASS,0 rows with event_type outside DELAY/REWORK,0
+QUALITY_CASE_KEY,quality_events.csv,PASS,0 rows referencing unknown case keys,0
+QUALITY_RULE_VERSION,quality_events.csv,PASS,rule_version consistent with label rules (RR-2025-07-28A),0
+QUALITY_BASIS_PRESENT,quality_events.csv,PASS,every label carries a basis,0
+CLASS_UNIQUE_ID,sample_classes.csv,PASS,0 duplicate class ids,0
+CLASS_REGISTRY_COVERAGE,cases.csv,PASS,0 cases referencing undefined sample classes,0
+LOAD_STAFFING_ENUMS,load_staffing.csv,PASS,"enum violations: site 0, version 0, staffing 0, equipment 0",0
+CASES_PLAUSIBILITY,cases.csv,PASS,0 cases with released_at <= received_at; 0 invalid is_released,0
